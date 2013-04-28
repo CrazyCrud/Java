@@ -1,1 +1,1 @@
-Some Java Programs i did in freetime
+Some exercises I did on http://www.reddit.com/r/dailyprogrammer/.
